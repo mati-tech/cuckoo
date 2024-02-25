@@ -1,7 +1,7 @@
 /*
     CuckooChess - A java chess program.
     Copyright (C) 2011  Peter Österlund, peterosterlund2@gmail.com
-
+hey there 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
