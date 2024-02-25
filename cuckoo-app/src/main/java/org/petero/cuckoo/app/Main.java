@@ -1,5 +1,5 @@
 package org.petero.cuckoo.app;
-/*
+/* alright reserved
     CuckooChess - A java chess program.
     Copyright (C) 2011  Peter Österlund, peterosterlund2@gmail.com
 
